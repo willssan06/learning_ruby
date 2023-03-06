@@ -7,6 +7,6 @@ celebrity = gets.chomp()
 
 
 
-puts ("Rose are {color}")
-puts ("{plural_noun} are blue")
-puts ("I love {celebrity}")
+puts ("Rose are " + color)
+puts (plural_noun + " are blue")
+puts ("I love " + celebrity)
